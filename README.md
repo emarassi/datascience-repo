@@ -1,2 +1,2 @@
 # datascience-repo
-Repository used as bunch of excercises practiced in my data science course.
+Repository used as bunch of excercises done in my data science course.
